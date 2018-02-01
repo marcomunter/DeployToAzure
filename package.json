@@ -1,6 +1,6 @@
 {
     "name": "mynodeserver",
-    "description": "Simple Hello World Node.js sample",
+    "description": "My first MEAN node server",
     "version": "0.0.1",
     "private": true,
     "engines": {
